@@ -1,0 +1,31 @@
+#t3H8dJLc1 {
+        font-size: 18px;
+        font-weight: bold;
+        color: #008000;
+    }
+.qW7bvnWd8 {
+        position: relative;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+    .Ubg57cdN3 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        z-index: 1;
+        opacity: 0.1; /* Opacity set to 10% */
+    }
+    .Ubg57cdN3 img {
+        max-width: 100%;
+        height: auto;
+    }
+    .3Mnwq75s {
+        margin: 0; /* Menghilangkan margin atas dan bawah */
+    }
+     .3Mnwq75s img {
+        display: none; /* Sembunyikan gambar secara default */
+        max-width: 100%; /* Gambar responsif */
+        height: auto; /* Gambar responsif */
+    }
