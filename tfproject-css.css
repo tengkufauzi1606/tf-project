@@ -15,7 +15,7 @@
         width: 100%;
         text-align: center;
         z-index: 1;
-        opacity: 0.1; /* Opacity set to 10% */
+        opacity: 0;
     }
     .Ubg57cdN3 img {
         max-width: 100%;
@@ -25,7 +25,7 @@
         margin: 0; /* Menghilangkan margin atas dan bawah */
     }
      .3Mnwq75s img {
-        display: none; /* Sembunyikan gambar secara default */
+        display: none;
         max-width: 100%; /* Gambar responsif */
         height: auto; /* Gambar responsif */
     }
